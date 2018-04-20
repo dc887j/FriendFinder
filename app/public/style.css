@@ -1,0 +1,28 @@
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 80px !important;
+}
+
+.jumbotron {
+    background-color: rgb(216, 216, 216);
+}
+
+h4 {
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;    
+}
+
+#survey {
+    background-color: rgb(216, 216, 216);
+}
+
+#submit {
+    color: black;
+}
